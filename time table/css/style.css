@@ -1,0 +1,106 @@
+  
+  
+  
+  body{ margin:0 auto;padding:0 auto;}
+.header{ float:left;width:100%;background-color: darkgray;}
+.scl_logo{ float: left;
+width: 22.3%;
+margin: 1em;
+text-align: center;
+padding: 1em;}
+.title{ float: left;
+width:33.3%;
+margin: 4em;
+padding: 0em;
+text-align: center;    font-family: 'Playfair Display SC', serif;
+    font-size: 16px;
+font-weight: 400;}
+
+ 
+ .header_pagecenter {
+  float: none;
+  width: 100%;
+  margin: 0 auto;
+  max-width: 77%;
+}
+.social_icon {float: right;
+width: 29.3%;
+padding-top: 4em;
+text-align: center;}
+.socialimg li {display: inline;
+padding: 13px;
+border: 1px solid brown;
+border-radius: 25px;
+margin: 12px;
+color: black;} 
+
+.body_section {
+  float: left;
+  width: 100%;
+  text-align: center;
+
+  margin-left: -1.5em;
+}
+		  
+
+.title_1 {
+  float: left;
+  width: 100%;
+  font-family: 'Playfair Display SC';
+  font-size: 30px;
+  font-weight: 400;
+  color: black;
+  padding: 0em;
+}
+.time_table {
+  text-align: center;
+  font-family: arial, sa ns-serif;
+  border: 5px;
+  border-collapse: collapse;
+  padding: 1em;
+  margin-left: 5em;
+  margin-bottom: 8em;
+    background-image: url('../images/girl_img.png') ,url('../images/boy_img.png');
+  background-repeat: no-repeat,no-repeat;
+  background-size: 12% ,22%;
+  background-position: left, right;
+}
+
+
+
+
+
+td, th, tr, table {
+  border: 1px solid burlywood;
+  text-align: center;
+  padding: 8px;
+  border-collapse: collapse;
+  width: 60%;
+  margin-left: 12em;
+}
+
+
+
+
+
+
+.rotate{font-size: x-large;
+letter-spacing: 4px; rotate: -90deg;}
+
+
+
+.footer marquee {
+  float: left;
+  width: 101.8%;
+  background-color: darkgray;
+  padding-top: 1em;
+  font-family: arial, sa ns-serif;
+  font-weight: 400;
+  font-size: 22px;
+  padding-bottom: 1em;
+  margin-top: -6em;
+}
+.footer {
+  float: left;
+  width: 100%;
+}
